@@ -8,7 +8,6 @@
 * **Técnico Universitario en Programación (UTN).**
 * Me especializo en el desarrollo de aplicaciones Full-Stack, construyendo APIs robustas y plataformas web interactivas.
 * Actualmente construyendo proyectos colaborativos y brindando servicios freelance de desarrollo a medida.
-* Escribo código, gestiono servidores y manejo bases de datos directamente desde mi entorno en Linux Fedora.
 
 ---
 
