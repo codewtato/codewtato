@@ -5,8 +5,10 @@
 ---
 
 ## 👨‍💻 Sobre mí
-* Soy estudiante de 2do año de la Tecnicatura Universitaria en Programación (UTN).
-* Me especializo en el desarrollo de aplicaciones Full-Stack, construyendo APIs robustas y plataformas web interactivas.
+* Estudiante avanzado de la Tecnicatura Universitaria en Programación (UTN) — *Próximo a graduarme*.
+* Me especializo en el desarrollo de aplicaciones Full-Stack, construyendo APIs robustas y plataformas web.
+* Actualmente construyendo proyectos colaborativos y armando mi portfolio de servicios freelance.
+* Acostumbro a escribir código y gestionar servidores directamente desde mi entorno en Linux Fedora.
 
 ---
 
@@ -20,3 +22,8 @@
 
 ### Herramientas y Entorno
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+
+---
+
+## 🚀 Actualmente Aprendiendo
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
