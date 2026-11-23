@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/GitHub-1e293b?style=for-the-badge&logo=github&logoColor=2dd4bf" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://github.com/codewtato/teire-descargas">
+  <a href="https://github.com/codewtato/teire-downloads">
     <img src="https://img.shields.io/badge/Teire-1e293b?style=for-the-badge&logo=rocket&logoColor=2dd4bf" alt="Teire" />
   </a>
   &nbsp;
@@ -56,19 +56,19 @@ I'm **Matías D'Agostino**, but everyone calls me **Tato**. I'm a Full-Stack dev
 ### 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/codewtato/teire-descargas">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=codewtato&repo=teire-descargas&bg_color=0f172a&border_color=1e293b&title_color=2dd4bf&icon_color=2dd4bf&text_color=cbd5e1" alt="Teire" width="48%" />
+  <a href="https://github.com/codewtato/teire-downloads">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=codewtato&repo=teire-downloads&bg_color=0f172a&border_color=1e293b&title_color=2dd4bf&icon_color=2dd4bf&text_color=cbd5e1&description_lines_count=3" alt="Teire" width="48%" />
   </a>
-  <a href="https://github.com/codewtato/hubely-bot">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=codewtato&repo=hubely-bot&bg_color=0f172a&border_color=1e293b&title_color=2dd4bf&icon_color=2dd4bf&text_color=cbd5e1" alt="Hubely Bot" width="48%" />
+  <a href="https://github.com/codewtato/foodstore_catalogo_y_carrito">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=codewtato&repo=foodstore_catalogo_y_carrito&bg_color=0f172a&border_color=1e293b&title_color=2dd4bf&icon_color=2dd4bf&text_color=cbd5e1&description_lines_count=3" alt="FoodStore" width="48%" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/codewtato/viringos-bar-web">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=codewtato&repo=viringos-bar-web&bg_color=0f172a&border_color=1e293b&title_color=2dd4bf&icon_color=2dd4bf&text_color=cbd5e1" alt="Viringo's Bar" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=codewtato&repo=viringos-bar-web&bg_color=0f172a&border_color=1e293b&title_color=2dd4bf&icon_color=2dd4bf&text_color=cbd5e1&description_lines_count=3" alt="Viringo's Bar" width="48%" />
   </a>
   <a href="https://github.com/codewtato/ItemSpawner-Plugin">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=codewtato&repo=ItemSpawner-Plugin&bg_color=0f172a&border_color=1e293b&title_color=2dd4bf&icon_color=2dd4bf&text_color=cbd5e1" alt="ItemSpawner" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=codewtato&repo=ItemSpawner-Plugin&bg_color=0f172a&border_color=1e293b&title_color=2dd4bf&icon_color=2dd4bf&text_color=cbd5e1&description_lines_count=3" alt="ItemSpawner" width="48%" />
   </a>
 </div>
 
